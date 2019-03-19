@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="realsense_postprocess" type="realsense_postprocess_cloud_filter" name="realsense_postprocess_cloud_filter" output="screen" />
+</launch>

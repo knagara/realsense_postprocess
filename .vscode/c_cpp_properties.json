@@ -1,0 +1,49 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/knagara/catkin_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/knagara/catkin_ws/src/beginner_tutorials/include",
+                "/home/knagara/catkin_ws/src/rosbook_pkgs/chapter8/cloud_excercise/include",
+                "/home/knagara/catkin_ws/src/realsense/realsense-2.2.1/ddynamic_reconfigure/include",
+                "/home/knagara/catkin_ws/src/image_pipeline/depth_image_proc/include",
+                "/home/knagara/catkin_ws/src/icart_control/include",
+                "/home/knagara/catkin_ws/src/image_pipeline/image_proc/include",
+                "/home/knagara/catkin_ws/src/sq_navigation/iw_status/include",
+                "/home/knagara/catkin_ws/src/rosbook_pkgs/chapter11/pluginlib_arrayutil/include",
+                "/home/knagara/catkin_ws/src/rosbook_pkgs/chapter11/pluginlib_arrayutil_client/include",
+                "/home/knagara/catkin_ws/src/realsense/realsense-2.2.1/realsense2_camera/include",
+                "/home/knagara/catkin_ws/src/sq_basic_apps/sq_associate_sensor_service/include",
+                "/home/knagara/catkin_ws/src/sq_charger_docking/include",
+                "/home/knagara/catkin_ws/src/sq_basic_apps/sq_charger_return/include",
+                "/home/knagara/catkin_ws/src/sq_navigation/sq_laser_processing/include",
+                "/home/knagara/catkin_ws/src/sq_lidar/include",
+                "/home/knagara/catkin_ws/src/sq_navigation/sq_lidar_filters/include",
+                "/home/knagara/catkin_ws/src/sq_map_manager/sq_map_loader/include",
+                "/home/knagara/catkin_ws/src/sq_map_manager/sq_map_rviz/include",
+                "/home/knagara/catkin_ws/src/sq_msgs/include",
+                "/home/knagara/catkin_ws/src/sq_basic_apps/sq_obstacle_detection/include",
+                "/home/knagara/catkin_ws/src/sq_simulation/sq_sim_usb_cam/include",
+                "/home/knagara/catkin_ws/src/sq_navigation/sq_slip_compensator/include",
+                "/home/knagara/catkin_ws/src/sq_navigation/sq_speed_controller/include",
+                "/home/knagara/catkin_ws/src/image_pipeline/stereo_image_proc/include",
+                "/home/knagara/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include",
+                "/home/knagara/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include",
+                "/home/knagara/catkin_ws/src/turtlebot3/turtlebot3_slam/include",
+                "/home/knagara/catkin_ws/src/usb_cam/include",
+                "/home/knagara/catkin_ws/src/ypspur_ros/include",
+                "/usr/include",
+                "/usr/include/pcl-1.7",
+                "/usr/include/eigen3"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
