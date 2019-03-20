@@ -6,6 +6,8 @@
   <maintainer email="knagara@todo.todo">knagara</maintainer>
   <license>TODO</license>
   <buildtool_depend>catkin</buildtool_depend>
+  <depend>cv_bridge</depend>
+  <depend>image_transport</depend>
   <depend>pcl_conversions</depend>
   <depend>pcl_ros</depend>
   <depend>roscpp</depend>
